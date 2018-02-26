@@ -30,8 +30,7 @@ h3{
 }
 
 .saas_text{
-    border-style: solid;
-    background-color: lightgrey;
+    width:80%;
 }
  
  .paas_text{
@@ -49,4 +48,14 @@ h3{
     background-color: lightgrey;
 }
 
-.na
+.saas{
+    border-style: solid;
+    background-color: lightgrey;
+}
+
+.saas img{
+    position: absolute;
+    top: 20%;
+    left: 81%;
+    width: 18%;
+}
