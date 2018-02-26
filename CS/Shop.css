@@ -1,0 +1,52 @@
+.Mainheading{
+    color: blue;
+}
+
+.Mainheading{
+    text-align: center;
+			} 
+
+.comp_img{
+    position: absolute;
+    top:30%;
+    left:55%;
+    width: 30%;
+    height: 30%;
+    border-radius: 16px;
+}
+
+.container{
+     position: absolute;
+    top:20%;
+    left:10%;
+    width: 38%;
+    height: 60%;
+}
+
+h3{
+    border-style: solid;
+    text-align: center;
+    width: 250px;
+}
+
+.saas_text{
+    border-style: solid;
+    background-color: lightgrey;
+}
+ 
+ .paas_text{
+    border-style: solid;
+    background-color: lightgrey;
+ }
+ 
+ .iass_text{
+    border-style: solid;
+    background-color: lightgrey;
+ }
+ 
+.cass_text{
+    border-style: solid;
+    background-color: lightgrey;
+}
+
+.na

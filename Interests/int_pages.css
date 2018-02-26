@@ -1,0 +1,121 @@
+#section1{
+    background-color: rgb(0, 0, 0);
+}
+
+#section2{
+    background-color: rgb(8, 6, 80);
+}
+
+#section3{
+    background-color: rgb(0, 0, 0);
+}
+
+.section{
+    text-align: center;
+    color: white;
+}
+.mainheading{
+    text-align: center;
+    color: Red;
+    border: 2px solid black;
+}
+
+
+.SanDiego_img {
+    position: absolute;
+    top:20%;
+    left:55%;
+    width: 30%;
+    height: 30%;
+    border-radius: 16px;
+}
+.SanDiego_img2 {
+    position: absolute;
+    top:60%;
+    left:55%;
+    width: 30%;
+    height: 30%;
+    border-radius: 16px;
+}
+
+.sandiego_text{
+    position: absolute;
+    top:20%;
+    left:10%;
+    width: 38%;
+    height: 60%;
+} 
+
+.China_img{
+    position: absolute;
+    top:60%;
+    left:55%;
+    width: 30%;
+    height: 30%;
+    border-radius: 16px;
+}
+
+.China_img2{
+  position: absolute;
+    top:20%;
+    left:55%;
+    width: 30%;
+    height: 30%;
+    border-radius: 16px;  
+}
+
+.china_text{
+    position: absolute;
+    top:20%;
+    left:10%;
+    width: 38%;
+    height: 60%;
+}
+
+.Cork_img{
+    position: absolute;
+    top:20%;
+    left:55%;
+    width: 30%;
+    height: 30%;
+    border-radius: 16px;
+}
+
+.Cork_img2{
+    position: absolute;
+    top:60%;
+    left:55%;
+    width: 30%;
+    height: 30%;
+    border-radius: 16px;
+    
+}
+
+.cork_text{
+    position: absolute;
+    top:20%;
+    left:10%;
+    width: 38%;
+    height: 60%
+}
+
+#section4{
+    background-color: rgb(0, 204, 255);
+    
+}
+
+#section5{
+    background-color: rgb(255, 128, 255);
+}
+
+#section6{
+    background-color: rgb(255, 0, 0);
+}
+
+.cloud_text{
+    text-align: center;
+}
+
+.cloud1_text{
+    text-align: center;
+}
