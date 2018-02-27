@@ -52,7 +52,7 @@ h3{
 
 .saas img{
     position: absolute;
-    top: 16%;
+    top: 20%;
     left: 81%;
     width: 18%;
 }
@@ -64,7 +64,7 @@ h3{
 
 .paas img{
     position: absolute;
-    top: 40%;
+    top: 50%;
     left: 81%;
     width: 18%;
 }
@@ -77,7 +77,7 @@ h3{
 
 .iaas img{
     position: absolute;
-    top: 75%;
+    top: 90%;
     left: 81%;
     width: 18%;
 }
@@ -89,7 +89,7 @@ h3{
 
 .caas img{
     position: absolute;
-    top: 100%;
+    top: 115%;
     left: 81%;
     width: 18%;
 }
