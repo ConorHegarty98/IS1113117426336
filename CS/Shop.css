@@ -34,18 +34,15 @@ h3{
 }
  
  .paas_text{
-    border-style: solid;
-    background-color: lightgrey;
+    width:80%;
  }
  
  .iass_text{
-    border-style: solid;
-    background-color: lightgrey;
+    width: 80%;
  }
  
 .cass_text{
-    border-style: solid;
-    background-color: lightgrey;
+    width: 80%;
 }
 
 .saas{
@@ -55,7 +52,45 @@ h3{
 
 .saas img{
     position: absolute;
-    top: 20%;
+    top: 16%;
     left: 81%;
     width: 18%;
 }
+
+.paas{
+     border-style: solid;
+    background-color: lightgrey;
+}
+
+.paas img{
+    position: absolute;
+    top: 40%;
+    left: 81%;
+    width: 18%;
+}
+
+
+.iaas{
+    border-style: solid;
+    background-color: lightgrey;
+}
+
+.iaas img{
+    position: absolute;
+    top: 75%;
+    left: 81%;
+    width: 18%;
+}
+
+.caas{
+    border-style: solid;
+    background-color: lightgrey;
+}
+
+.caas img{
+    position: absolute;
+    top: 95%;
+    left: 81%;
+    width: 18%;
+}
+
