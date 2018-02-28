@@ -52,7 +52,7 @@ h3{
 
 .saas img{
     position: absolute;
-    top: 20%;
+    top: 16%;
     left: 81%;
     width: 18%;
 }
@@ -64,7 +64,7 @@ h3{
 
 .paas img{
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 81%;
     width: 18%;
 }
@@ -77,7 +77,7 @@ h3{
 
 .iaas img{
     position: absolute;
-    top: 90%;
+    top: 75%;
     left: 81%;
     width: 18%;
 }
@@ -89,8 +89,17 @@ h3{
 
 .caas img{
     position: absolute;
-    top: 115%;
+    top: 94%;
     left: 81%;
     width: 18%;
 }
 
+.btn_buy{
+    height: 38px;
+    background: #0f847c;
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ffffff;
+    cursor: pointer;
+}
