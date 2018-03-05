@@ -19,6 +19,7 @@ function validateDetails(){
 
 function enablebtnPurchase(){
     $('#btnPurchase').prop('disabled', false);
+}    
     
 function disablebtnPurchase(){
     $('#btnPurcahse').prop('disabled', true);
