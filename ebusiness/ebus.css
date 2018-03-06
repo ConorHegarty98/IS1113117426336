@@ -1,0 +1,111 @@
+.title{
+    position: absolute;
+    top: 1%;
+    left: 40%;
+}
+.salesforce1{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+.c91{
+    position: absolute;
+    top: 12%;
+    left: 40%;
+}
+
+.aws1{
+    position: absolute;
+    top: 14%;
+    left: 40%;
+}
+
+.gmail1{
+    position: absolute;
+    top: 16%;
+    left: 40%;
+}
+
+.title2{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    color: red;
+}
+
+.subtotal{
+    position: absolute;
+    top: 26%;
+    left: 40%;    
+}
+
+.discount{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+
+.vat{
+    position: absolute;
+    top: 34%;
+    left: 40%;
+}
+
+.total{
+    position: absolute;
+    top: 38%;
+    left: 40%;
+}
+.button_1{
+    height: 38px;
+    background: #ffcc00;
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ffffff;
+    cursor: pointer;
+    position: absolute;
+    top: 48%;
+    left: 40%;
+}
+
+.btnProceed{
+    height: 38px;
+    background: #33cc33;
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ffffff;
+    cursor: pointer;
+    position: absolute;
+    top: 42%;
+    left: 40%;
+}
+
+.cancel{
+    height: 38px;
+    background: #ffffff;
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ff0000;
+    cursor: pointer;
+    position: absolute;
+    top: 49%;
+    left: 50%;
+}
+
+.receipt{
+    position: absolute;
+    top: 1%;
+    left: 46%;
+}
+
+.body3{
+    text-align: center;
+}
+
+.body1{
+    text-align: center;
+}

@@ -5,16 +5,20 @@ session_start();
 <!DOCTYPE html>
 <html> 
     <head>
-    <title>RECEIPT</title>
+        <title>RECEIPT</title>
+        <link rel="stylesheet" href="ebus.css" type="text/css"/>
     </head>
-    <body>
-        <h4>RECEIPT</h4>
-        
+    
+    <body class="body3">
+        <h2>RECEIPT</h2>
+        <br>
+        <br>
         <?php
         // Echo session variables that were set on previous page
         echo "Name " . $_POST["name"] . "<br>";
         echo "Email " . $_POST["email"] . "<br>";
         echo "Total is " . $_SESSION{"total"} . ".";
         ?>
-        </body>
-        </html>
+        <h3>Thanks for your purchase</h3>
+    </body>
+</html>
