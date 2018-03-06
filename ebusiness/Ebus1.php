@@ -11,7 +11,7 @@
 </head>
 
  <body>
- <h4>Select a product</h4>
+ <h1>Select a product</h1>
  
  
  
@@ -50,35 +50,44 @@
 
  
  <br/>
+ <br/>
  
+ <h3> Breakdown</h3>
  
  <label for="subtotal">
- Subtotal &euro;
+ Sub Total $
  <input type="text" id="subtotal" value="0.00" name="subtotal" readonly/>
  </label>
  
  <br/> 
+ <br/>
+ 
  
  <label for="discount">
- Discount &euro;
+ Discount @5% $
  <input type="text" id="discount" name="discount" value="0.00" readonly/>
  </label>
  
  <br/> 
+ <br/>
+ 
  
  <label for="vat">
- VAT &euro;
+ VAT @10% $
  <input type="text" id="vat" value="0.00" readonly/>
  </label>
  
  <br/> 
+ <br/>
+ 
  
  <label for="total">
- Total &euro;
+ Total $
  <input type="text" id="total" name="total" value="0.00" readonly/>
  </label>
  
  <br/> 
+ <br/>
  
  <button type="submit" id="btnProceed" disabled>Add to Shopping Cart</button>
  
