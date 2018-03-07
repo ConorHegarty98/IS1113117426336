@@ -12,12 +12,14 @@
  </head>
 
  <body>
+    <!-- Page Content -->
     <h1 class="title">Select a product</h1>
  
  
  
     <form method="POST" action="Ebus2.php">
 
+    <!-- Radio Buttons -->
     <label for="salesforce" class="salesforce1">
     <input type="radio" id="salesforce" name="product" checked onClick="disablebtnProceed()"/>
     Salesforce @ $100
@@ -54,7 +56,7 @@
     <br/>
  
     <h3 class="title2"> Breakdown</h3>
- 
+    <!-- Breaking down price -->
     <label for="subtotal" class="subtotal">
     Sub Total $
     <input type="text" id="subtotal" value="0.00" name="subtotal" readonly/>
@@ -95,6 +97,7 @@
     </form>
  
     <br/>
+    <!-- Button -->
     <button class ="button_1" onClick="calcSub()";"calcDisVatTotal()";>Calculate Cost</button>
     <a class="cancel" rule="button" class="cancel hover" href="Ebus1.php">Clear Choice</a>
  

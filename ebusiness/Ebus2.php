@@ -14,6 +14,7 @@ session_start();
     </head>
 
     <body>
+        <!-- Page Content -->
         <h4 class="details1">Please enter your payment details</h4>
     
     
@@ -37,6 +38,7 @@ session_start();
         
         <br/> 
         
+        <!-- Button -->
         <button onClick="validateDetails()" class="btnvalidate">Validate</button>
             
         <?php

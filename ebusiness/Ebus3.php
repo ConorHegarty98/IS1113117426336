@@ -10,9 +10,11 @@ session_start();
     </head>
     
     <body>
+        <!-- Page Content -->
         <h2 class="receipt">RECEIPT</h2>
         <br>
         <br>
+        
         <div class="receiptinfo">
         <?php
         // Echo session variables that were set on previous page
