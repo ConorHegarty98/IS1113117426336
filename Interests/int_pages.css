@@ -119,3 +119,16 @@
 .cloud1_text{
     text-align: center;
 }
+
+.btn_travel{
+    height: 38px;
+    background: #33cc33;
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ffffff;
+    cursor: pointer;
+    position: absolute;
+    top: 80%;
+    left: 40%;
+}
